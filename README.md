@@ -1,4 +1,4 @@
-# Sistema de Tarefas em Python
+# Sistema de gerenciamento de tarefas em Python com interface via terminal
 
 Projeto simples desenvolvido para gerenciar tarefas pelo terminal.
 
